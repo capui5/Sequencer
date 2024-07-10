@@ -1,0 +1,10 @@
+POST http://localhost:46391/NorthWind/Products
+Content-Type: application/json;IEEE754Compatible=true
+
+{
+    "Name": "Tuna",
+    "Description": "Raw Tuna",
+    "ReleaseDate": "1992-01-01T00:00:00Z",
+    "Rating": 4,
+    "Price": 2
+}
